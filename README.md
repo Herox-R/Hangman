@@ -19,9 +19,9 @@ This app is a simple Hangman game where the user tries to guess a word based on 
 2. Guessing the Word: The user types a guess in the textbox and clicks the "Next" button.
 - If the guess is correct, the app shows "Correct" in green and increases the score.
 - If the guess is wrong, it shows "Wrong" in red.
-3.Progressing: After each guess, the app moves to the next word until all words have been guessed.
-4.End of Game: When all words are guessed, the "Start" button is re-enabled, allowing the user to start over.
-5.This app provides a fun way to test your word-guessing skills with feedback and a score tracker.
+3. Progressing: After each guess, the app moves to the next word until all words have been guessed.
+4. End of Game: When all words are guessed, the "Start" button is re-enabled, allowing the user to start over.
+5. This app provides a fun way to test your word-guessing skills with feedback and a score tracker.
 
 # Author 
 - Sylvester N 
